@@ -18,6 +18,24 @@ Projeto feito apenas com HTML5 e um pouco de CSS3, para o desafio da formação 
   git clone https://github.com/DiegoMaiaSantos/formacao-html-desafio-dois.git
   ```
 ***
+## 📷 Imagens do projeto: 
+<p align ="center">
+ <img src ="https://github.com/DiegoMaiaSantos/imagens-projetos-variados/blob/main/formacao-html-img/page-desafio-01.jpg" width =""/>
+ </p>
+ 
+ <p align ="center">
+ <img src ="https://github.com/DiegoMaiaSantos/imagens-projetos-variados/blob/main/formacao-html-img/page-desafio-02.jpg" width =""/>
+ </p>
+  
+ <p align ="center">
+ <img src ="https://github.com/DiegoMaiaSantos/imagens-projetos-variados/blob/main/formacao-html-img/page-desafio-03.jpg" width =""/>
+ </p>
+  
+ <p align ="center">
+ <img src ="https://github.com/DiegoMaiaSantos/imagens-projetos-variados/blob/main/formacao-html-img/page-desafio-04.jpg" width =""/>
+ </p>
+
+***
 ## ☑️ Tecnologias e Ferramentas: 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [VS Code](https://code.visualstudio.com/)
